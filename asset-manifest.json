@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-updated-portfolio/static/css/main.edfc5041.css",
+    "main.js": "/my-updated-portfolio/static/js/main.328a1037.js",
+    "static/js/453.1407b060.chunk.js": "/my-updated-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/resume.pdf": "/my-updated-portfolio/static/media/resume.0fb707a5bfd626325656.pdf",
+    "index.html": "/my-updated-portfolio/index.html",
+    "main.edfc5041.css.map": "/my-updated-portfolio/static/css/main.edfc5041.css.map",
+    "main.328a1037.js.map": "/my-updated-portfolio/static/js/main.328a1037.js.map",
+    "453.1407b060.chunk.js.map": "/my-updated-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfc5041.css",
+    "static/js/main.328a1037.js"
+  ]
+}
