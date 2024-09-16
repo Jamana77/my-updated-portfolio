@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Online Food Gallery",
-    "imageSrc": "project/food1.jpg",
+    "imageSrc": "./assets/project/food1.jpg",
     "description": "This is a project made with complete Python-Django and Bootstrap."
     
     
