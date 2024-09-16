@@ -13,7 +13,7 @@ const Projects = () => {
                 <div className="card bg-dark text-light " style={{ width: "18rem",border:"1px solid yellow",boxShadow:"5px 5px 10px 10px rgba(101,175,10,0.5)" }}
                 data-aos="flip-right" data-aos-duration="1000">
                   <div className="img d-flex justify-content-center align-content-center p-3">
-                  <img src={`/assets/${data.imageSrc}`} className="card-img-top" alt="..." 
+                  <img src={data.imgSrc} className="card-img-top" alt="..." 
                    style={{
                     width:"250px",
                     height:"200px",
